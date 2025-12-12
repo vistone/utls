@@ -18,7 +18,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/bogdanfinn/utls/internal/byteorder"
+	"github.com/vistone/utls/internal/byteorder"
 
 	circlSign "github.com/cloudflare/circl/sign"
 )

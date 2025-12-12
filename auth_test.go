@@ -8,7 +8,7 @@ import (
 	"crypto"
 	"testing"
 
-	"github.com/bogdanfinn/utls/internal/fips140tls"
+	"github.com/vistone/utls/internal/fips140tls"
 	circlPki "github.com/cloudflare/circl/pki"
 )
 

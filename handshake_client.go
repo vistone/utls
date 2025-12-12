@@ -23,10 +23,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bogdanfinn/utls/internal/byteorder"
-	"github.com/bogdanfinn/utls/internal/fips140tls"
-	"github.com/bogdanfinn/utls/internal/hpke"
-	"github.com/bogdanfinn/utls/internal/tls13"
+	"github.com/vistone/utls/internal/byteorder"
+	"github.com/vistone/utls/internal/fips140tls"
+	"github.com/vistone/utls/internal/hpke"
+	"github.com/vistone/utls/internal/tls13"
 
 	circlSign "github.com/cloudflare/circl/sign"
 )
